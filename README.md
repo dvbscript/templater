@@ -13,4 +13,4 @@
 
 ## Installation
 
-Загрузите последнюю версию, демонстрацию рабоы и способы автозагрузки можно найти в файлах [примеров](https://github.com/dvbscript/templater/blob/main/examples/mix.php) или [тестов](https://github.com/dvbscript/templater/blob/main/tests/mix.php)
+Загрузите [последнюю версию](https://github.com/dvbscript/templater/archive/refs/heads/main.zip). Демонстрацию работы и способы автозагрузки можно найти в файлах [примеров](https://github.com/dvbscript/templater/blob/main/examples/mix.php) или [тестов](https://github.com/dvbscript/templater/blob/main/tests/mix.php)
